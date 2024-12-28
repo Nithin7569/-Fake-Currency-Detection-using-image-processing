@@ -37,5 +37,4 @@ The system demonstrates the potential of AI-powered solutions to ensure secure a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fake-currency-detection.git
-   cd fake-currency-detection
+   git clone https://github.com/Nithin7569/-Fake-Currency-Detection-using-image-processing
